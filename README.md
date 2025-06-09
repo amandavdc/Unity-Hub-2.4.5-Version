@@ -1,4 +1,4 @@
 # Unity-Hub-2.4.5-Version
 Unity Hub 2.4.5 Version (for archive purpose)
 
-Sorry enggak jadi guys, takut kena hak cipta. Yang mau download unity hub 2.4.5 version, bisa search di github dengan keyword yang sama. Ada 2 akun yang membagikannya. Selamat mengunduh! 
+Sorry guys, I won't be uploading it. I'm worried about copyright. For anyone who wants to download Unity Hub 2.4.5, you can search on GitHub using the same keyword. There are two accounts sharing it. Happy downloading!
